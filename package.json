@@ -15,7 +15,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "immutability-helper": "^3.0.1",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "uuid": "^3.3.3"
   }
 }
